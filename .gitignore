@@ -1,0 +1,21 @@
+# Python cache / artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database (local only, don’t upload)
+*.db
+
+# Outputs (charts, CSV, reports)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+
+# bank data 
+data/*.csv 
