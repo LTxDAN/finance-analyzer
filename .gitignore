@@ -18,4 +18,4 @@ Thumbs.db
 .vscode/
 
 # bank data 
-data/*.csv 
+data/*.CSV 
